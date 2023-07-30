@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Malviya</h1>
-<h3 align="center">A passionate Competitive Programmer and a Flutter App Developer.</h3>
+<h3 align="center">I'm a passionate Competitive Programmer and a Flutter App Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuanchor&label=Profile%20views&color=0e75b6&style=flat" alt="ayuanchor" /> </p>
 
