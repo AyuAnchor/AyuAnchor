@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://codeforces.com/profile/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayuanchor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayuanchor" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayu_anchor" target="blank"><img align="center" src="https://www.google.com/search?sxsrf=AB5stBi1W1Afs579VQL6zj7BZHQCJTPbew:1690749365281&q=codechef+image&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjwlMmapLeAAxUKRmwGHcDvA6YQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25#imgrc=io0EWyrogcsk9M" alt="ayu_anchor" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayu_anchor" target="blank"><img align="center" src="[https://icons8.com/icon/O4SEeX66BY8o/codechef](https://raw.githubusercontent.com/AyuAnchor/AyuAnchor/37a3f47da1788480f815c6c3c49cb5aaea60200f/icons8-codechef.svg)" alt="ayu_anchor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
