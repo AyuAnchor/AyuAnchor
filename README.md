@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, DSA, Problem Solving**
 
-- 📫 How to reach me **ayushmalviya625@gmail.com**
+- 📫 Reach me @ **ayushmalviya625@gmail.com**
 
 <h3 align="left">My Coding Handles:</h3>
 <p align="left">
@@ -17,8 +17,17 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuanchor&show_icons=true&locale=en&layout=compact" alt="ayuanchor" /></p>
+## 📊 My Coding Profiles
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayuanchor&show_icons=true&locale=en" alt="ayuanchor" /></p>
+<span>
+<a href="https://codeforces.com/profile/ayuanchor">
+<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=AyuAnchor&theme=github_dark&force_username=true&border_color=404040" alt="ayuanchor Codeforces Stats"/>
+</a>
+<a href="https://leetcode.com/AyuAnchor">
+<img height="316" src="https://leetcard.jacoblin.cool/ayuanchor?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/AyuAnchor/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="AyuAnchor Leetcode Stats"/>
+</a>
+</span>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuanchor&" alt="ayuanchor" /></p>
+## 📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayuanchor&show_icons=true&theme=gotham" alt="ayuanchor" />
