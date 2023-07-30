@@ -7,12 +7,11 @@
 
 - 📫 How to reach me **ayushmalviya625@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Coding Handles:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayuanchor" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayu_anchor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayu_anchor" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayuanchor" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayuanchor" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ayu_anchor" target="blank"><img align="center" src="https://www.google.com/search?sxsrf=AB5stBi1W1Afs579VQL6zj7BZHQCJTPbew:1690749365281&q=codechef+image&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjwlMmapLeAAxUKRmwGHcDvA6YQ0pQJegQIDBAB&biw=1536&bih=739&dpr=1.25#imgrc=io0EWyrogcsk9M" alt="ayu_anchor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
