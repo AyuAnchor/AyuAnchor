@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, DSA, Problem Solving**
 
-- 📫 Reach me @ **ayushmalviya625@gmail.com**
+- 📫 Reach me @ **ayushmalviya635@gmail.com**
 
 <h3 align="left">My Coding Handles:</h3>
 <p align="left">
