@@ -1,31 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ayush Malviya</h1>
-<h3 align="center">I'm a passionate Competitive Programmer and a Flutter App Developer.</h3>
+<h1 align="center">Hi, I'm Ayush Malviya</h1>
+<h3 align="center">Software Developer · Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuanchor&label=Profile%20views&color=0e75b6&style=flat" alt="ayuanchor" /> </p>
-
-- 💬 Ask me about **Python, DSA, Problem Solving**
-
-- 📫 Reach me @ **ayushmalviya635@gmail.com**
-
-<h3 align="left">My Coding Handles:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ayuanchor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayuanchor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayuanchor" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayu_anchor" target="blank"><img align="center" src="icons8-codechef.svg" alt="ayu_anchor" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://malviya.me"><b>🌐 malviya.me</b></a> ·
+  <a href="mailto:ayuanchor@gmail.com">📫 ayuanchor@gmail.com</a> ·
+  <a href="https://linkedin.com/in/ayuanchor">LinkedIn</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayuanchor&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-## 📊 My Coding Profiles
+- 🏆 **Codeforces Candidate Master** (top 100 IN) · **CodeChef 6-star** · **LeetCode Guardian** (top 0.5%)
+- 🥇 **AIR 17** · ICPC Asia West Regionals '24
+- 💼 Building high-frequency trading systems at **NK Securities** · ex-**Cisco**, **Deutsche Bank**
+- 🎓 CS from **NIT Silchar** (CGPA 9.44)
 
-<span>
-<a href="https://codeforces.com/profile/ayuanchor">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=AyuAnchor&theme=github_dark&force_username=true&border_color=404040" alt="ayuanchor Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/AyuAnchor">
-<img height="316" src="https://leetcard.jacoblin.cool/ayuanchor?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/AyuAnchor/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="AyuAnchor Leetcode Stats"/>
-</a>
-</span>
+### 🔗 Coding Profiles
 
+<p align="left">
+  <a href="https://codeforces.com/profile/ayuanchor" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/ayu_anchor" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" alt="codechef" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ayuanchor" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+</p>
 
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="c++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38" height="38" alt="typescript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38" height="38" alt="java" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="38" height="38" alt="dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="react" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="nextjs" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="38" height="38" alt="django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="38" height="38" alt="fastapi" />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="38" height="38" alt="flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="postgres" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="38" height="38" alt="redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="38" height="38" alt="docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="38" height="38" alt="aws" />
+</p>
+
+### 🐍 Contribution snake
+
+![snake gif](https://raw.githubusercontent.com/AyuAnchor/AyuAnchor/output/github-contribution-grid-snake-dark.svg)
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyuAnchor&show_icons=true&theme=github_dark&hide_border=true&border_color=404040" height="170" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyuAnchor&theme=github-dark-blue&hide_border=true" height="170" alt="streak" />
+</p>
+
+### 🏆 Competitive Programming
+
+<p align="left">
+  <a href="https://codeforces.com/profile/ayuanchor">
+    <img height="290" src="https://codeforces-readme-stats.vercel.app/api/card?username=AyuAnchor&theme=github_dark&force_username=true&border_color=404040" alt="codeforces stats" />
+  </a>
+  <a href="https://leetcode.com/AyuAnchor">
+    <img height="290" src="https://leetcard.jacoblin.cool/ayuanchor?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="leetcode stats" />
+  </a>
+</p>
