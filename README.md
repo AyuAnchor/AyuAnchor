@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/ayu_anchor" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" alt="codechef" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/codechef/white" alt="codechef" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/ayuanchor" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
@@ -56,7 +56,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyuAnchor&show_icons=true&theme=github_dark&hide_border=true&border_color=404040" height="170" alt="github stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyuAnchor&theme=github_dark" height="170" alt="github stats" />
   <img src="https://streak-stats.demolab.com?user=AyuAnchor&theme=github-dark-blue&hide_border=true" height="170" alt="streak" />
 </p>
 
