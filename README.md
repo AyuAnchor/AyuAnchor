@@ -53,13 +53,6 @@
 
 ![snake gif](https://raw.githubusercontent.com/AyuAnchor/AyuAnchor/output/github-contribution-grid-snake-dark.svg)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyuAnchor&theme=github_dark" height="170" alt="github stats" />
-  <img src="https://streak-stats.demolab.com?user=AyuAnchor&theme=github-dark-blue&hide_border=true" height="170" alt="streak" />
-</p>
-
 ### 🏆 Competitive Programming
 
 <p align="left">
